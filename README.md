@@ -15,10 +15,8 @@ Mi meta es trabajar en proyectos que le brinden a las personas todas las herrami
 🌍 Mejorando cada día más mi inglés<br>
 </p>
 
-<p align="left"> 
 **Conocimientos en:**
-<p/>
-<br>
+
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />&nbsp;
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
