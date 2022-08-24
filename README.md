@@ -4,7 +4,7 @@ HEY QUE TAL! BIENVENIDO A MI PERFIL DE GITHUB
 
 **Imagen**
 
-<p align="justify">
+<p align="left">
 Soy apasionado por la tecnología y por la programación. Actualmente estoy estudiando desarrollo de aplicaciones web en diferentes plataformas online y de forma autodidacta.
 Mi meta es trabajar en proyectos que le brinden a las personas todas las herramientas necesarias para mejorar, en diferentes partes del mundo, áreas como la agricultura, el comercio, el diseño, entre otras, mediante la creación de software web para una mejor flexibilidad.
 </p>
@@ -15,9 +15,8 @@ Mi meta es trabajar en proyectos que le brinden a las personas todas las herrami
 🌍 Mejorando cada día más mi inglés
 </p>
 
-**Para etiquetas**
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />&nbsp;&nbsp;
-https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white " />
 https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
 https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
 https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
