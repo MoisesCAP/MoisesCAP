@@ -8,18 +8,17 @@ Mi meta es trabajar en proyectos que le brinden a las personas todas las herrami
 </p>
 
 <p align="left">
-📖 Actualmente estoy en una ruta de aprendizaje de @Platzi<br>
-🐍 Aprendiendo todo lo relacionado con Python para el desarrollo web<br>
+📖 Actualmente estoy estudiando una FP Superior<br>
+🖥️ Aprendiendo todo lo relacionado con el desarrollo web<br>
 🌍 Mejorando cada día más mi inglés<br>
 </p>
 
 **Conocimientos en:**
 
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />&nbsp;
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
 
 
